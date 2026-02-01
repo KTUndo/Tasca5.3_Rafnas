@@ -13,7 +13,6 @@ public class CCuenta {
      * Método principal de ejecución
      */
     public static void main(String[] args) {
-
         // Depuración. Se detiene siempre
         CCuenta miCuenta = new CCuenta();
         System.out.println("Saldo Inicial: " + miCuenta.dSaldo + " euros"); //ss
